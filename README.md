@@ -17,10 +17,12 @@ Ported mod to mods directory (Dirtyredz)
 ## Installation
 ___
 Step 1:
+
 Copy and paste the contents of the zip file into your avorion directory
 There should now be a mods/ directory next to the data/ directory
 
 Step 2:
+
 Navigate to folder
 
 data/scripts/entity/stationfounder.lua
@@ -30,6 +32,7 @@ Open the file and place this line at the very bottom of the file
     if not pcall(require, 'mods.DockBuilder.scripts.entity.stationfounder') then print('Mod: DockBuilder, failed to extend stationfounder.lua!') end
 
 Step 3:
+
 If you are NOT using the BETA version of avorion 0.14+, then you NEED to navigate to the mods config file:
 
 mods/DockBuilder/config/DockBuilderConfig.lua
