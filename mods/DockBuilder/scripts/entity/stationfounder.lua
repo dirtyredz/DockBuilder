@@ -2,7 +2,6 @@
 exsist, DockBuilderConfig = pcall(require, 'mods.DockBuilder.config.DockBuilderConfig')
 
 --Default only, Make changes in mods/config.DockBuidlerConfig.lua
-
 local defaultScripSstations = {
 	equipmentDock = 50000000,		-- Equipment Dock
 	turretFactory = 40000000,		-- Turret Factory
