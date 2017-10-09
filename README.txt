@@ -1,8 +1,8 @@
 [center][b][size=32pt]DockBuilder[/size][/b][/center]
 
-This mod was originally developed by: Theoman02 http://www.avorion.net/forum/index.php/topic,781.0.html
+This mod was originally developed by: [b][color=red]Theoman02[/color][/b] http://www.avorion.net/forum/index.php/topic,781.0.html
 
-Dirtyredz (myself), Hammelpilaw, and Laserzwei all have worked to keep this mod alive and working.
+[b][color=red]Dirtyredz [/color][/b](myself), [b][color=red]Hammelpilaw[/color][/b], and [b][color=red]Laserzwei [/color][/b]all have worked to keep this mod alive and working.
 
 This mod will allow you to build every station available in the game when founding a station.
 
