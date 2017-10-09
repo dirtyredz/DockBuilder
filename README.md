@@ -32,6 +32,10 @@ Open the file and place this line at the very bottom of the file
 
 Thats it your done. start up your game or server and enjoy being able to build your own empire with every station available to you.
 
+## Download
+___
+https://github.com/dirtyredz/DockBuilder/releases/download/1.0.0/DockBuilder.v1.0.0.zip
+
 ## Github
 ___
 This project is on a public repo here:
