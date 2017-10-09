@@ -4,7 +4,7 @@ This mod was originally developed by: Theoman02 http://www.avorion.net/forum/ind
 
 Dirtyredz (myself), Hammelpilaw, and Laserzwei all have worked to keep this mod alive and working.
 
-Today I bring you the culmanation of all that work in a single mod with these features and bug fixes:
+Today I bring you the culmination  of all that work in a single mod with these features and bug fixes:
 
 Added Resourcetrader (Hammelpilaw)
 Added Fighterfactory (Hammelpilaw)
@@ -46,4 +46,4 @@ I encourage anyone wanting to further advance thise project to please submit a p
 
 ## Notes
 ___
-Again I want to make it explicitly clear that this is not my own work, but a culmanation of work from many modders.
+Again I want to make it explicitly clear that this is not my own work, but a culmination  of work from many modders.
