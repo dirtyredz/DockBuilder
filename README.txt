@@ -34,13 +34,6 @@ Open the file and place this line at the very bottom of the file
     if not pcall(require, 'mods.DockBuilder.scripts.entity.stationfounder') then print('Mod: DockBuilder, failed to extend stationfounder.lua!') end
     [/code]
 
-Step 3:
-If you are NOT using the BETA version of avorion 0.14+, then you NEED to navigate to the mods config file:
-[quote]
-mods/DockBuilder/config/DockBuilderConfig.lua
-[/quote]
-And change the price for the FighterFactory to ZERO
-
 Thats it your done. start up your game or server and enjoy being able to build your own empire with every station available to you.
 
 [b][size=24pt]Download[/size][/b]
